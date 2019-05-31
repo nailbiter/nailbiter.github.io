@@ -28,7 +28,9 @@ h1, h2 {
   background-color: #f7f8f9; }
 
 a {
-  color: #f34949; }
+  /* color: #f34949; */
+  color: inherit;
+}
 
 a:focus,
 button:focus {
