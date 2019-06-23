@@ -2,20 +2,20 @@
   担当領域:
   	SE: 業務経験1年以上
   OS:
-  	AWS: 知識あり
-	iOS: 業務経験3年以上
-	Android: 業務経験3年以上
+  	Android: 業務経験3年以上
 	Linux: 業務経験5年以上
+	AWS: 知識あり
+	iOS: 業務経験3年以上
 	Windows: 業務経験1年以上
   言語:
   	Shellscript: 業務経験あり
-	Java: 業務経験3年以上
 	Python: 業務経験あり
-	JavaScript: 業務経験3年以上
-	C/C++: 業務経験5年以上
-	Perl: 業務経験1年以上
 	awk: 業務経験あり
+	C/C++: 業務経験5年以上
 	HTML/CSS: 業務経験1年以上
+	Java: 業務経験3年以上
+	JavaScript: 業務経験3年以上
+	Perl: 業務経験1年以上
  フレームワーク
   	express.js: 業務経験1年以上
 	React.js: 業務経験1年以上
@@ -23,6 +23,7 @@
 データベース
   	MongoDB: 業務経験1年以上
 その他
-  	Unity: 業務経験1年以上
-	nginx: 知識あり
+  	nginx: 知識あり
 	Apache: 業務経験1年以上
+	Unity: 業務経験1年以上
+
