@@ -1,0 +1,11 @@
+# Site settings
+title: "Oleksii (Alex) Leontiev | ML Architect"
+description: "Ph.D. | Machine Learning Architect & Engineer | GCP Professional (ML & Data) | MLOps"
+theme: jekyll-theme-minimal
+
+# Navigation - Add more pages as you create them
+# e.g.,
+# - title: "Project Case Studies"
+#   url: "/projects"
+# - title: "Publications"
+#   url: "/publications"
